@@ -1,0 +1,68 @@
+.navbar 
+{
+    background-color: black;
+    
+    border-bottom: purple solid 2.5px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
+.nav-link{
+    text-transform: uppercase;
+    font-size: medium;
+    padding-right: 15px;
+}
+.nav-link:hover{
+    color: purple !important;
+}
+.display-4{
+    padding-bottom: 20px;
+    color: white;
+}
+.text-body-secondary{
+    margin-left: 64px;
+    margin-right: 64px;
+    padding-bottom: 30px;
+    color: white !important;
+}
+.btn-outline-secondary{
+    color: purple;
+}
+.btn-outline-secondary:hover{
+    background-color: purple !important;
+}
+.header{
+    background-color: black;
+}
+.fa-solid{
+    color:rgb(148, 141, 141);
+}
+.fa-solid:hover{
+    color: purple !important;
+}
+.fa-brands:hover{
+    color: purple !important;
+}
+footer{
+    background-color: rgb(148, 141, 141);
+   
+}
+.photo img{
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+    
+}
+.contact .fa-brands {
+    color: lightgray;
+   font-size: 30px;
+}
+.contact .fa-solid{
+    color: lightgray;
+   font-size: 30px;
+
+}
+body{
+    background-color: white;
+}
