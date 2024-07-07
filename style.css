@@ -18,13 +18,13 @@
 }
 .display-4{
     padding-bottom: 20px;
-    color: white;
+    color: black;
 }
 .text-body-secondary{
     margin-left: 64px;
     margin-right: 64px;
     padding-bottom: 30px;
-    color: white !important;
+    color: black !important;
 }
 .btn-outline-secondary{
     color: purple;
@@ -33,7 +33,7 @@
     background-color: purple !important;
 }
 .header{
-    background-color: black;
+    background-color: white;
 }
 .fa-solid{
     color:rgb(148, 141, 141);
@@ -44,8 +44,8 @@
 .fa-brands:hover{
     color: purple !important;
 }
-footer{
-    background-color: rgb(148, 141, 141);
+.card-footer{
+    background-color: white;
    
 }
 .photo img{
@@ -54,13 +54,13 @@ footer{
     border-radius: 100%;
     
 }
-.contact .fa-brands {
+.card-footer .fa-brands {
     color: lightgray;
-   font-size: 30px;
+   font-size: 20px;
 }
-.contact .fa-solid{
+.card-footer .fa-solid{
     color: lightgray;
-   font-size: 30px;
+   font-size: 20px;
 
 }
 body{
